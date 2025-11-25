@@ -8,7 +8,7 @@ A clean and professional **WiFi pricing table** featuring selectable pricing car
 
 ## 📸 Preview
 
-![WiFi Pricing Preview](https://raw.githubusercontent.com/haokipstevin-rgb/6.-WiFi-Pricing-Plans/refs/heads/main/preview.png)
+![WiFi Pricing Preview](https://github.com/Saiyonbasorokhaibam/08.Wifi-Pricing-Plan/blob/main/preview.png?raw=true)
 
 ---
 
@@ -38,13 +38,7 @@ wifi-pricing/
 
 ---
 
-## 🚀 How to Use
 
-1. Clone the repository:
-   git clone [https://github.com/yourusername/wifi-pricing.git](https://github.com/yourusername/wifi-pricing.git)
-2. Open `index.html` in your browser to view the pricing table.
-3. Customize titles, prices, or features by editing the HTML file.
-4. Optional: Update colors or layout by editing `style.css`.
 
 ---
 
@@ -67,4 +61,5 @@ This project is open source and free to use under the **MIT License**.
 Saiyonba Sorokhiabam
 
 🎨 Designed for modern, clean, and user-friendly pricing tables.
+
 
